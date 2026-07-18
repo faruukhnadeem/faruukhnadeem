@@ -31,6 +31,30 @@ My educational work is rooted in **Dhudray Sharqi, District Gujrat, Punjab, Paki
 - **Founder** — Canadian Advanced Skills Academy
 - Pursuing an **M.Phil in Educational Leadership and Management** at the University of Management and Technology, Lahore
 
+## Research & Policy Papers
+
+### Policy Coherence, Equity and Governance in Public and Private Schools
+
+**A Comparative Qualitative Study from Gujrat District, Punjab, Pakistan**
+
+A comparative qualitative education-policy study examining policy implementation, equity, governance, curriculum reform, accountability, public-private coordination, and institutional capacity.
+
+The research is based on eight stakeholder interviews and policy-document analysis. It was originally developed during my M.Phil Educational Leadership and Management studies in 2025 and revised as a Public Research Edition in 2026.
+
+**Key research areas:**
+- Education policy and governance
+- Public and private school systems
+- Educational equity and access
+- Curriculum implementation
+- Teacher professional standards
+- Accountability and quality assurance
+- Public-private education coordination
+
+🔗 [Read the Research Overview](https://faruukhnadeem.com/research/public-private-school-policy-punjab/)
+
+📄 [Research & Policy Papers](https://faruukhnadeem.com/research/)
+
+🆔 [ORCID](https://orcid.org/0009-0008-2427-2111)
 ## Areas of Focus
 
 - Educational leadership and management
